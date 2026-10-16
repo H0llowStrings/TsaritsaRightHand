@@ -13,3 +13,13 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/TsaritsaRightHand/TsaritsaRightHand/cfddf38ae580d53a5a4c38fd34302e93bd06ac3d/Sans%20titre%20515_20261016214239.png" width="250" alt="Vesna" />
 </div>
+
+<div align="center">
+  <a href="https://marion.atabook.org">
+    <img src="https://raw.githubusercontent.com/TsaritsaRightHand/TsaritsaRightHand/a6ed51374807bdaf2f1e250074be67cd99451f7b/Sans%20titre%20526_20261016225605.png" width="120" alt="Atabook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://hollowstrings.straw.page">
+    <img src="https://raw.githubusercontent.com/TsaritsaRightHand/TsaritsaRightHand/a6ed51374807bdaf2f1e250074be67cd99451f7b/Sans%20titre%20527_20261016225658.png" width="120" alt="Strawpage" />
+  </a>
+</div>
