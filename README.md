@@ -20,6 +20,6 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://hollowstrings.straw.page">
-    <img src="https://raw.githubusercontent.com/TsaritsaRightHand/TsaritsaRightHand/a6ed51374807bdaf2f1e250074be67cd99451f7b/Sans%20titre%20527_20261016225658.png" width="120" alt="Strawpage" />
+    <img src="https://raw.githubusercontent.com/TsaritsaRightHand/TsaritsaRightHand/a6ed51374807bdaf2f1e250074be67cd99451f7b/Sans%20titre%20527_20261016225658.png" width="130" alt="Strawpage" />
   </a>
 </div>
