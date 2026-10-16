@@ -9,3 +9,7 @@
 </a>
 
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TsaritsaRightHand/TsaritsaRightHand/cfddf38ae580d53a5a4c38fd34302e93bd06ac3d/Sans%20titre%20515_20261016214239.png" width="250" alt="Vesna" />
+</div>
