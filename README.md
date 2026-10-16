@@ -6,13 +6,14 @@
 </p>
 <div align="center">
 
-  ${\color{#D8C19A}\text{◞ She / her}}$  ·  ${\color{#DAB58D}\text{Asexual / Pansexual}}$ 
+  ${\color{#B8DDF0}\text{◞ She / her}}$  ·  ${\color{#D5C9F2}\text{Asexual / Pansexual}}$
 
-${\color{#4F4E6B}\text{Marionette}}$ · ${\color{#4C2565}\text{Puppet Kin}}$ · ${\color{#5B7C8F}\text{ Librarian}}$
+${\color{#A7B9E8}\text{Marionette}}$ · ${\color{#9B82C4}\text{Vesna Kin}}$ · ${\color{#91C8D8}\text{ Muffins kisser }}$
 
-${\color{#D8C19A}\text{yume ship⏖ ༝}}$
+${\color{#D5C9F2}\text{yume ship⏖ ༝}}$
 
 </div>
+
 <p align="center">
   <a href="https://marion.atabook.org/">𝕬𝖙𝖆𝖇𝖔𝖔𝖐</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
