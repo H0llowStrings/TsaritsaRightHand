@@ -6,11 +6,11 @@
 </p>
 <div align="center">
 
-  ${\color{#B8DDF0}\text{◞ She / her}}$  ·  ${\color{#D5C9F2}\text{Asexual / Pansexual}}$
+  ${\color{#C5C9D8}\text{◞ She / her}}$  ·  ${\color{#A6A9C4}\text{Asexual / Pansexual}}$
 
-${\color{#A7B9E8}\text{Marionette}}$ · ${\color{#9B82C4}\text{Vesna Kin}}$ · ${\color{#91C8D8}\text{ Muffins kisser }}$
+${\color{#737B9E}\text{Marionette}}$ · ${\color{#625477}\text{Vesna Kin}}$ · ${\color{#9BAFC1}\text{ Muffins kisser }}$
 
-${\color{#D5C9F2}\text{yume ship⏖ ༝}}$
+${\color{#8C819F}\text{yume ship⏖ ༝}}$
 
 </div>
 
