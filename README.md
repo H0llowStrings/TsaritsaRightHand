@@ -4,13 +4,13 @@
 <p align="center">
   <img src="https://github.com/H0llowStrings/H0llowStrings/blob/e7096945e2949ebe83cf49602ef5d657a353f7e6/Sans%20titre%20485_20260910183414.png"width="75">
 </p>
+
 <div align="center">
+${\color{#6EC9C8}\text{◞ She / her}}$  ·  ${\color{#9EDBE8}\text{Asexual / Pansexual}}$
 
-  ${\color{#C5C9D8}\text{◞ She / her}}$  ·  ${\color{#A6A9C4}\text{Asexual / Pansexual}}$
+${\color{#98A4A0}\text{Marionette}}$ · ${\color{#5FBEC5}\text{Vesna Kin}}$ · ${\color{#C2D6D3}\text{ Muffins kisser }}$
 
-${\color{#737B9E}\text{Marionette}}$ · ${\color{#625477}\text{Vesna Kin}}$ · ${\color{#9BAFC1}\text{ Muffins kisser }}$
-
-${\color{#8C819F}\text{yume ship⏖ ༝}}$
+${\color{#FAEDD7}\text{yume ship⏖ ༝}}$
 
 </div>
 
