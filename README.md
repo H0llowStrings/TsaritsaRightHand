@@ -2,4 +2,10 @@
   <img src="https://github.com/TsaritsaRightHand/TsaritsaRightHand/blob/3859cf424a466370c09eb6739d47438906e103ed/Sans%20titre%20523_20261016215624.png"width="1200">
 </p>
 
-[![Vesna's lines](https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=52948B&center=true&vCenter=true&width=700&lines=%E2%91%85+%E2%B8%9D%EA%99%B3+One+for+me+One+for+you!+%E3%80%80%CD%A1%F0%93%88%92%F0%9D%9C%9A%E0%9D%9C%9A;%E2%91%85+%E2%B8%9D%EA%99%B3+One+for+her+Majesty!+%E3%80%80%CD%A1%F0%93%88%92%F0%9D%9C%9A%E0%9D%9C%9A;%E2%91%85+%E2%B8%9D%EA%99%B3+And...+Another+for+me.+None+for+Danica!+Hehe+%EA%92%B0+%E1%A7%94%E1%B7%86%E1%A7%93+%EA%92%B1)](https://git.io/typing-svg)
+<div align="center">
+  
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=900&color=52948B&center=true&vCenter=true&width=650&lines=%E2%91%85+%E2%B8%9D%EA%99%B3+%F0%9D%98%96%F0%9D%98%AF%F0%9D%98%A6+%F0%9D%98%A7%F0%9D%98%B0%F0%9D%98%B3+%F0%9D%98%AE%F0%9D%98%A6+%2C+%F0%9D%98%96%F0%9D%98%AF%F0%9D%98%A6+%F0%9D%98%A7%F0%9D%98%B0%F0%9D%98%B3+%F0%9D%98%BA%F0%9D%98%B0%F0%9D%98%B6!+%E3%80%80%CD%A1%F0%93%88%92%F0%9D%9C%97%F0%9D%9A%9C;%E2%91%85+%E2%B8%9D%EA%99%B3+%F0%9D%98%96%F0%9D%98%AF%F0%9D%98%A6+%F0%9D%98%A7%F0%9D%98%B0%F0%9D%98%B3+%F0%9D%98%A9%F0%9D%98%A6%F0%9D%98%B3+%F0%9D%98%94%F0%9D%98%A2%F0%9D%98%A8%F0%9D%98%A6%F0%9D%98%B4%F0%9D%98%B5%F0%9D%98%BA!+%E3%80%80%CD%A1%F0%93%88%92%F0%9D%9C%97%F0%9D%9A%9C;%E2%91%85+%E2%B8%9D%EA%99%B3+%F0%9D%98%88%F0%9D%98%AF%F0%9D%98%A5%E2%80%A6+%F0%9D%98%88%F0%9D%98%AF%F0%9D%98%B0%F0%9D%98%B5%F0%9D%98%A9%F0%9D%98%A6%F0%9D%98%B3+%F0%9D%98%A7%F0%9D%98%B0%F0%9D%98%B3+%F0%9D%98%AE%F0%9D%98%A6+%2C+%F0%9D%98%95%F0%9D%98%B0%F0%9D%98%AF%F0%9D%98%A6+%F0%9D%98%A7%F0%9D%98%B0%F0%9D%98%B3+%F0%9D%98%8B%F0%9D%98%A2%F0%9D%98%AF%F0%9D%98%AA%F0%9D%98%A4%F0%9D%98%A2!+%E1%B4%B4%E1%B5%89%CA%B0%E1%B5%89+%EA%92%B0+%E1%A7%94%F0%96%A4%90%E1%A7%93+%EA%92%B1" alt="Animated Vesna quotes" />
+</a>
+
+</div>
