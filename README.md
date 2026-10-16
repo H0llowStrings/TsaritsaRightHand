@@ -3,8 +3,8 @@
 </p>
 <p align="center">
   <img src="https://github.com/H0llowStrings/H0llowStrings/blob/e7096945e2949ebe83cf49602ef5d657a353f7e6/Sans%20titre%20485_20260910183414.png"width="75">
-</p>
-${\color{#8AD6D2}\text{◞ She / her}}$  ·  ${\color{#B5E9F0}\text{Asexual / Pansexual}}$
+
+</p>${\color{#8AD6D2}\text{◞ She / her}}$  ·  ${\color{#B5E9F0}\text{Asexual / Pansexual}}$
 
 ${\color{#65B9C7}\text{Marionette}}$ · ${\color{#77C9D9}\text{Vesna Kin}}$ · ${\color{#E4C9A4}\text{ Muffins kisser }}$
 
