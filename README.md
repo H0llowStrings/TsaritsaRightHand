@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://marion.atabook.org">
-    <img src="https://raw.githubusercontent.com/TsaritsaRightHand/TsaritsaRightHand/a6ed51374807bdaf2f1e250074be67cd99451f7b/Sans%20titre%20526_20261016225605.png" width="120" alt="Atabook" />
+    <img src="https://raw.githubusercontent.com/TsaritsaRightHand/TsaritsaRightHand/a6ed51374807bdaf2f1e250074be67cd99451f7b/Sans%20titre%20526_20261016225605.png" width="130" alt="Atabook" />
   </a>
   &nbsp;&nbsp;
   <a href="https://hollowstrings.straw.page">
