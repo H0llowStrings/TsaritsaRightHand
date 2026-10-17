@@ -29,3 +29,9 @@
     <img src="https://raw.githubusercontent.com/TsaritsaRightHand/TsaritsaRightHand/a6ed51374807bdaf2f1e250074be67cd99451f7b/Sans%20titre%20527_20261016225658.png" width="170" alt="Strawpage" />
   </a>
 </div>
+
+<p align="center">
+  <a href="https://youtu.be/XhKZ2zvPhbo">
+    ▶️ Watch my video
+  </a>
+</p>
