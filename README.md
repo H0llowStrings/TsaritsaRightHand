@@ -20,7 +20,7 @@
   
   </a>
 
- <img src="https://github.com/TsaritsaRightHand/TsaritsaRightHand/blob/2db1d1ab072c6ee2fcdda2c2adeaf7a28f4ae634/IMG_9640.jpeg?raw=true" width="50">
+ <img src="https://github.com/H0llowStrings/H0llowStrings/blob/4098158cf3cdab32acec5c7d67e25b4dfb88c7b8/Sans%20titre%20515_20261017200921.png" width="50">
 </p>
 
  </a>
@@ -30,8 +30,130 @@
   </a>
 </div>
 
+<div align="center">
+<table>
+<tr>
+<td width="30%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/a0488b61927e699a144597cec20fa1dfbe3b4482/Sans%20titre%20515_20261017193745.png" width="100%"/>
+
+<br/>
+
 <p align="center">
-  <a href="https://youtu.be/XhKZ2zvPhbo">
-    <img src="https://img.youtube.com/vi/XhKZ2zvPhbo/maxresdefault.jpg" width="350" alt="Regarder la vidéo">
-  </a>
+${\color{#F6FFEB}\text{  ྀིྀིྀིྀིྀི ◡◡     France /   English.  ◡◡  ྀིྀིྀིྀིྀི}}$<br/>
+${\color{#7AA49E}\text{Artist     · Teenager}}$<br/>
+${\color{#D4E6DD}\text{ dni Vesnica , Kin  . capitano Daughter }}$<br/>
+${\color{#4C9489}\text{꒱ Medieval vibe     ·}}$ ${\color{#F6FFEB}\text{ fae aesthetic ꒰}}$
+</p>
+
+</td>
+<td width="70%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/a0488b61927e699a144597cec20fa1dfbe3b4482/Sans%20titre%20515_20261017193534.png" width="100%"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+<details>
+<summary><span style="color:#7AA49E;">Byi ✦</span></summary>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/1a303f49e0ac3f93b726a2aa172e2fa4871659b1/Sans%20titre%20515_20261017212832.png" width="200" alt="BYI"/>
+
+<br><br>
+
+<span style="color:#F6FFEB;">DNI</span>
+
+<br>
+
+<span style="color:#D4E6DD;">Minor × adult shippers, people who sexualize children, inappropriate or NSFW art involving minors, stalker fans, body-shaming, racism, misogyny, sexism, homophobia, etc.</span>
+
+<br><br>
+
+<span style="color:#F6FFEB;">DNIUF / IWC</span>
+
+<br>
+
+<span style="color:#D4E6DD;">Greenapple DNIUF, most DNI roleplayers, Harlequin lovers / Harlequin fans, and people who genuinely support any of the things listed above.</span>
+
+<br>
+
+<span style="color:#7AA49E;">(Hazbin Hotel / Helluva Boss DNI / DNIUF)</span>
+
+<br>
+
+<span style="color:#7AA49E;">TFC fandom, and Vesnica (Danica × Vesna).</span>
+
+<br><br>
+
+<span style="color:#F6FFEB;">BASIC DNI</span>
+
+<br>
+
+<span style="color:#D4E6DD;">If you're uncomfortable with my personality or attitude, we probably won't get along.</span>
+
+<br>
+
+<span style="color:#D4E6DD;">I can be mean or a ragebaiter around my friends, so please don't take everything I say seriously.</span>
+
+<br>
+
+<span style="color:#D4E6DD;">I'm also not always educated on every topic, so feel free to correct me respectfully.</span>
+
+<br><br>
+
+<span style="color:#F6FFEB;">IWC / BYI</span>
+
+<br>
+
+<span style="color:#D4E6DD;">If you're under 14, please don't interact. I'm fine with friendly interactions, but I'd rather avoid interacting with people under 14 because I've been accused of being a predator simply for talking to younger people, even though I'm not an adult myself. That's why I prefer to avoid misunderstandings.</span>
+
+<br><br>
+
+<span style="color:#D4E6DD;">I don't add people randomly. I prefer talking first and getting to know each other before adding, just to see if we get along and feel comfortable talking to each other.</span>
+
+<br><br>
+
+<span style="color:#D4E6DD;">C+H freely if I'm alone. I don't really like talking to people who constantly use brainrot, unless you're mature enough to understand certain things.</span>
+
+<br><br>
+
+<span style="color:#F6FFEB;">BOUNDARIES</span>
+
+<br>
+
+<span style="color:#D4E6DD;">Please don't take inspiration from, copy, or cover me without asking.</span>
+
+<br>
+
+<span style="color:#D4E6DD;">Friends are an exception if you've asked me beforehand.</span>
+
+<br>
+
+<span style="color:#D4E6DD;">I don't make skins for people to copy, unless they're gifts.</span>
+
+</div>
+
+</details>
+
+</div>
+
+
+<div align="center">
+
+<a href="https://youtu.be/XhKZ2zvPhbo?si=pUTDm9LrQ8vPdrye">
+  <span style="color:#F6FFEB;">Shnezhnaya Shenanigans</span>
+</a>
+
+</div>
+
+<p align="center">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/6f32276e15b1b62fdee325d839ff95e7ba5b5e64/Sans%20titre%20524_20261016215720.png"width="1200">
 </p>
